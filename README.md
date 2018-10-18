@@ -6,3 +6,4 @@ A small repository that I use to quickly instantiate new Flask applications to b
 ```
 git clone https://github.com/montrealks/flaskbp.git
 ```
+#### 2. Rename appname to be the name of your app
